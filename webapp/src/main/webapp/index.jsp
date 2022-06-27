@@ -8,8 +8,8 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
-    <label for="Address"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Address" name="Name" id="Address" required>
+    <label for="Address"><b>Enter Address</b></label>
+    <input type="text" placeholder="Enter Full Address" name="address" id="Address" required>
     <br>
 
 
