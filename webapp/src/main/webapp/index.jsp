@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps using ansible jenkins playbook fully </h1>
+    <h1>New user Register for DevOps using ansible jenkins playbook  </h1>
     <p> fill in this form to create an account .</p>
     <hr>
      
